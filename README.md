@@ -3,7 +3,7 @@
 This project is to demonstrate how to build a Fullstack application using Polygon and Nextjs with Wagmi and Rainbowkit as Wallet Connection Manager. It would also demonstrate how to style the frontend using Chakra-UI. You could actually make use of any styling library of your choice but I have recently come to like building with Chakra but TailwindCSS is also a great library you could use. 
 The choice of Polygon is for lower gas.
 
-![NFT Real Estate Landing Page](./nft-real-estate/public//Images//NftyHomes.png)
+![NFT Real Estate Landing Page](./nft-NftyHomes/public//Images//NftyHomes.png)
 
 ## Inspiration
 
